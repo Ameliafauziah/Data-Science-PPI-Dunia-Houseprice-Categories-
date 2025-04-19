@@ -1,4 +1,4 @@
-Data Science Project: Helping The Sultan from America Find His Dream Houses in East Java!
+**Data Science Project**: Helping The Sultan from America Find His Dream Houses in East Java!
 In this project, The Sultan from America is on a mission to invest in East Java’s housing market! With data from a real estate company, he asked for several insightful analyses, including:
 
 1. Average Price & Best Condition of Waterfront Homes
